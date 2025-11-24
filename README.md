@@ -1,3 +1,11 @@
+# 🐿️ Nutty Lucky
+
+**Nutty Lucky** es un endless runner en 2D hecho con **Pygame**, protagonizado por una ardilla llamada Nutty que salta entre planos, esquiva árboles, recoge bellotas y huye de un fantasma flotante.  
+Incluye un menú generado aleatoriamente (tipo roguelike), menús animados, HUD de vidas, cuenta atrás con sprites y un sistema básico de estados de juego.
+
+---
+
+
 ## 🧱 Arquitectura del código
 
 ### `main.py`
